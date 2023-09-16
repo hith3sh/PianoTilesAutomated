@@ -20,7 +20,7 @@ pip install Pillow
 
 2. Download the START.jpg file and save it -make sure to save it where you save the copied python file.
 
-2. Open https://www.agame.com/game/magic-piano-tiles using a browser.
+2. Open [Agame-MagicPianoTiles](https://www.agame.com/game/magic-piano-tiles) using a browser.
 
 3. Keep the browser on and visible and run the IDLE file.
 Bot will automatically detect the START button and will click that.
