@@ -2,7 +2,7 @@
 
 This bot will play magic piano tiles automatically on your browser.
 Here I use [opencv](https://opencv.org/) - a computer vision library ,to detect the words on the screen.
-Game link : [Magic_Piano_Tiles](https://www.agame.com/game/magic-piano-tiles)
+Game link : [Magic Piano Tiles](https://www.agame.com/game/magic-piano-tiles)
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install these relevant dependencies. We'll be importing these to run the python file.
