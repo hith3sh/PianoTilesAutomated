@@ -1,7 +1,7 @@
 # Description
 
 This bot will play magic piano tiles automatically on your browser.
-Uses [opencv](https://opencv.org/) to detect the words on browser and click accordinly
+Here I use [opencv](https://opencv.org/) - a computer vision library ,to detect the words on the screen.
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install these relevant dependencies. We'll be importing these to run the python file.
