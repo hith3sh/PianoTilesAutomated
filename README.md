@@ -20,6 +20,8 @@ pip install Pillow
 2. Open https://www.agame.com/game/magic-piano-tiles using a browser.
 
 3. Keep the browser on and visible and run the IDLE file (you may need to save the file first)
+Bot will automatically detect the START button and will click that.
+USE "ESC" TO ESCAPE FROM THE LOOP
 
 4. Have fun :)
 ```
